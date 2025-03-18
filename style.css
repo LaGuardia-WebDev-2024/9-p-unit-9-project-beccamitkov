@@ -1,21 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap');
+@import url(<style>
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
+</style>);
 
 body {
-  background-image: url("https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg");
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Faesthetic&psig=AOvVaw3FfBO4n3Ej89eB2EmSZPya&ust=1742095552345000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCBuuaRi4wDFQAAAAAdAAAAABAQ);
   text-align: center;
   margin: auto;
-   font-family: "Poetsen One", serif;
+   font-family: "Eblema One", serif;
 }
 
 h1{
-  font-size: 30px;
-  color: white;
+  font-size: 60px;
+  color: pink;
 }
 
 #myCanvas {
   background-size: 600px 400px;
-  border-radius: 30px;
-  border: 5px solid white;
+  border-radius: 40px;
+  border: 5px solid pink;
 }
 
 
